@@ -16,7 +16,7 @@ Microsoft Office 2013 and newer. *(Untested, but might work with older versions)
 The Primary file is the **Able Body Report Roster.xlsm** (ABRR). The ABRR is the powerhouse behind the other files and is the bulk of this tool.
 It requires the **2_TEMPLATES** folder and all of its contents to properly work. The files can work from almost any location, but may have issues 
 if used from a network drive (Share drive, OneNote, etc.). Aside from ensuring that you have the ABRR, and the **2_TEMPLATES** folder (with all of its contents)
-the only other requirement is that the file structure remain the same. This just means that the ABRR and the **2_TEMPLATES** folder need to be located in the same spot.
+the only other requirement is that the file structure remain the same. This just means that both the ABRR and the **2_TEMPLATES** folder need to be located in the same spot.
 This also means that the files cannot be renamed.
 
 *If changes need to be made to the Duty Roster Creator. Use the **Developer Mode** feature to make your changes.*
@@ -35,7 +35,7 @@ To improve versatility, I have implemented a **Developer Mode** into this Macro 
 
 Developer Mode allows a user to safely make certain edits to the document such as changing the options in a dropdown list, the picture associated with a worksheet, the password used to lock and protect the document, and more. To enter Developer Mode, you must start by opening the document, enabling Macros, and clicking on any unlocked/editable cell. Once you have done that simply press *Ctrl*+*Shift*+*Alt*+*D*.
 
-If done correctly, a window will appear informing you that you are about to enter Developer Mode. While in this mode, you will be able to safely make changed to certain aspects of the document. If further or more in-depth changes need to be made, please contact me at jeffreyda@gmail.com.
+If done correctly, a window will appear informing you that you are about to enter Developer Mode. While in this mode, you will be able to safely make changed to certain aspects of the document. If further or more in-depth changes need to be made, please contact me. See my bio for the appropriate contact information.
 
 
 
