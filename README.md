@@ -15,7 +15,7 @@ Microsoft Office 2013 and newer. *(Untested, but might work with older versions)
 ### Required Files
 The Primary file is the **Able Body Report Roster.xlsm** (ABRR). The ABRR is the powerhouse behind the other files and is the bulk of this tool.
 It requires the **2_TEMPLATES** folder and all of its contents to properly work. The files can work from almost any location, but may have issues 
-if used from a network drive (Share drive, OneNote, etc.). Aside from ensuring that you have the ABRR, and the **2_TEMPLATES** folder (with all of its contents)
+if used from a network drive (Share drive, OneDrive, etc.). Aside from ensuring that you have the ABRR, and the **2_TEMPLATES** folder (with all of its contents)
 the only other requirement is that the file structure remain the same. This just means that both the ABRR and the **2_TEMPLATES** folder need to be located in the same spot.
 This also means that the files cannot be renamed.
 
