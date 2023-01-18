@@ -1,5 +1,6 @@
 # Duty Roster Creator
- Fairly distributes Duty position responsibilities. Originally created for Marine Corps’ 8th Comm Bn Camp on Lejeune, but updated to hopefully work for most any military branch and personnel size.
+Fairly distributes Duty position responsibilities. Originally created for Marine Corps’ 8th Comm Bn Camp on Lejeune, but updated to hopefully work for most any military branch and personnel size.
+
 
 
 ### Summary
@@ -8,8 +9,10 @@ The Duty Roster Creator is comprised of several excel files that work together a
 The main document is the Able Body Report Roster, which imports and stores information from three separate personnel rosters. The information from these combined rosters identifies who can stand duty, and how many of each duty position to give each company and each of their sections while ensuring that no section or company is unnecessarily over or under tasked. This information is then exported to a new Duty Roster for the selected month and year where holidays and weekends are automatically highlighted. Said Duty Roster is then duplicated and renamed according to each company, then merged at a later date to create a complete battalion Duty Roster.
 
 
+
 ### Compatibility:
 Microsoft Office 2013 and newer. *(Untested, but might work with older versions)*
+
 
 
 ### Required Files
@@ -20,6 +23,7 @@ the only other requirement is that the file structure remain the same. This just
 This also means that the files cannot be renamed.
 
 *If changes need to be made to the Duty Roster Creator. Use the **Developer Mode** feature to make your changes.*
+
 
 
 ### Not Required, but Useful
